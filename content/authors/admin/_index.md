@@ -26,15 +26,18 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Software Engineering
+      institution: IMT Atlantique
+      year: 2021
+    - course: PhD in Software Engineering
+      institution: Université du Québec à Chicoutimi
+      year: 2021
+    - course: MSc in Computer Networking
+      institution: Université Claude Bernard Lyon 1
+      year: 2016
+    - course: BSc in Computer Science
+      institution: Université Claude Bernard Lyon 1
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
