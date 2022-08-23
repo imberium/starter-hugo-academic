@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://github.com/imberium
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SnT - Interdisciplinary Centre for Security, Reliability and Trust
+    url: https://wwwen.uni.lu/snt
 education:
   courses:
     - course: PhD in Software Engineering
