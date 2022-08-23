@@ -1,12 +1,13 @@
 ---
 title: Imad Berrouyne
 role: Postdoctoral Researcher
+avatar_filename: i-berrouyne.png
 bio: My research interests include Model-Driven Engineering (MDE), Internet of
   Things (IoT), Compliance Checking
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Model-Driven Engineering (MDE)
+  - Internet of Things (IoT)
+  - Compliance Checking
 social:
   - icon: envelope
     icon_pack: fas
