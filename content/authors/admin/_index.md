@@ -1,8 +1,8 @@
 ---
 title: Imad Berrouyne
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Postdoctoral Researcher
+bio: My research interests include Model-Driven Engineering (MDE), Internet of
+  Things (IoT), Compliance Checking
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -41,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Imad Berrouyne is a postdoctoral at the [](https://wwwen.uni.lu/research/focus_areas/interdisciplinary_centre_for_security_reliability_and_trust_snt)[Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://wwwen.uni.lu/snt). He is currently co-working with [Dr. Domenico Bianculli](https://people.svv.lu/bianculli/), Dr. Nicolas Sannier and Dr. Xiaochen Li to provide the [Commission de Surveillance du Secteur Financier (CSSF)](https://www.cssf.lu/) with an automated compliance checking solution for prospectuses. He received a double Ph.D. degree from the [Université du Québec à Chicoutimi](https://uqac.ca/) (Saguenay, Canada) and [Institut Mines Télécom Atlantique](https://www.imt-atlantique.fr/) (Nantes, France). He developed a software engineering methodology based on Model-Driven Engineering (MDE) to overcome the heterogeneity challenges in the IoT. Before his Ph.D., Imad obtained a Bachelor degree in computer science and a Master degree in computer networking from the Université Claude Bernard Lyon 1 (Lyon, France).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
