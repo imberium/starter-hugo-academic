@@ -41,7 +41,7 @@ education:
     - course: BSc in Computer Science
       institution: Université Claude Bernard Lyon 1
       year: 2014
-email: ""
+email: contact@imad.lu
 superuser: true
 highlight_name: true
 ---
